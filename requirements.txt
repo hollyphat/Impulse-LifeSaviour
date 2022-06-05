@@ -55,7 +55,7 @@ newspaper3k==0.2.8
 numba==0.48.0
 numpy==1.18.1
 
-pandas==1.0.2
+pandas==1.1.5
 parso==0.6.2
 
 PDPbox==0.2.0
@@ -83,7 +83,7 @@ requests==2.23.0
 requests-file==1.4.3
 resampy==0.2.2
 scikit-learn==0.22.1
-scipy==1.4.1
+#scipy==1.4.1
 seaborn==0.10.0
 shap==0.35.0
 six==1.14.0
